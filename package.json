@@ -1,5 +1,5 @@
 {
-  "name": "dhtmlx-gantt",
+  "name": "pipe-gantt-dhtmlx",
   "version": "8.0.7",
   "description": "An open source JavaScript Gantt chart that helps you illustrate a project schedule in a nice-looking chart.",
   "main": "codebase/dhtmlxgantt.js",
